@@ -1,5 +1,5 @@
 # Functional Programming Workhub Tag Analysis
-A simple go tool to produce the tags in the job postings on the site [functional works](https://functional.works-hub.com/jobs/) by occurence.
+A simple go tool to analyze the tags in the job postings on the site [functional works](https://functional.works-hub.com/jobs/) by occurence.
 
 # Example output
 ```
